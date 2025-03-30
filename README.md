@@ -76,6 +76,8 @@ KotlinToDoApp/
 
 - Persistencia de datos en archivos o base de datos
 - Interfaz gráfica de usuario
+- Sistema robusto de manejo de errores en entradas del usuario
+- Validación avanzada de datos (formatos de fechas, títulos duplicados, etc.)
 - Categorías y etiquetas para tareas
 - Sistema de búsqueda
 - Recordatorios y notificaciones
