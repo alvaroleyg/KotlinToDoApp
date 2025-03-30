@@ -84,7 +84,7 @@ KotlinToDoApp/
 
 ## Autor
 
-[Tu Nombre]
+Álvaro Ley (AlleyDev)
 
 ---
 
