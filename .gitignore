@@ -1,0 +1,15 @@
+# Compiled files
+*.jar
+*.class
+
+# Kotlin compiler output
+out/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
